@@ -1,0 +1,17 @@
+{
+  "name": "whatsopen-gmu",
+  "version": "1.0.0",
+  "description": "A sample Alexa app",
+  "main": "index.js",
+  "author": "Mark Stenglein",
+  "license": "MIT",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.54678730-c367-4657-ab29-2a3c1caff226"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "fuse.js": "^2.5.0",
+    "moment": "^2.16.0",
+    "node-rest-client": "^2.0.1"
+  }
+}
